@@ -1,5 +1,7 @@
 # Enki
 
+Pour finir cette journée déjà bien remplis, nous avons visité les locaux d'enki. Un start-up comme on l'imagine dans la silicone valley. A mi-chemin entre le mythe de la start-up qui démarre dans un garage et celui de l'auberge espanol.  
+
 ## About Enki
 
 Premier produit créer à londre (l'app mobile).
